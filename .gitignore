@@ -1,0 +1,19 @@
+# Local R session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Downloaded study data
+brca_tcga_pan_can_atlas_2018/
+brca_tcga_pan_can_atlas_2018.tar.gz
+
+# Notebook environments and generated caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Local editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
